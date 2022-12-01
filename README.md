@@ -1,9 +1,9 @@
 # aimEAP (as is aimMMC)
-aimEAP WEB UI dev Project 진행, WEB UI 개발을 담당함.
-초기 BackEnd 서버 설계에도 참여 (기존 aimMMC 백앤드서버에 WEB Server를 추가로 붙이는 의견 제시)
+aimEAP WEB UI dev Project 진행, WEB UI 개발을 담당함.  
 
-사용한 framework: Vue2.0 (aim WEB UI Framework)
-진행기간: 2022년 8월1일 ~ 11월30일 (약 4개월)
+
+사용한 framework: Vue2.0 (aim WEB UI Framework)  
+진행기간: 2022년 8월1일 ~ 11월30일 (약 4개월)  
 
 ### Needs
 1. 기존에 존재하던 aimMMC 제품의 WEB UI가 수려하지 않다는 의견이 있었음. (Because, 개발된지 오래되어서)
